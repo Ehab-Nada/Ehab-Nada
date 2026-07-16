@@ -111,9 +111,7 @@ My interests include **software architecture**, **system design**, **clean code*
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/Ehab-Nada">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+
 </p>
 
 ---
