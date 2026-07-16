@@ -1,20 +1,166 @@
-<h1 align="center">Hi 👋, I'm Ehab Nada</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **React**
+# Hi 👋, I'm Ehab Nada
 
-- 💬 Ask me about **React, Redux, JSX, and JavaScript**
+### Senior Software Engineer • Digital Banking • Full-Stack Development
 
-- 📫 How to reach me **ehab.mohammed.nada@gmail.com**
+Building secure, scalable, and high-performance software for enterprise applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ehabmnada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ehabmnada" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ehabmnada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ehabmnada" height="30" width="40" /></a>
-<a href="https://fb.com/ehabmnada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ehabmnada" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hopamnada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hopamnada" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ehabnada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ehabnada" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ehab%20Nada-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ehabmnada)
+[![GitHub](https://img.shields.io/badge/GitHub-Ehab--Nada-black?style=for-the-badge&logo=github)](https://github.com/Ehab-Nada)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ehab.mohammed.nada@gmail.com)
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a Software Engineer from Egypt passionate about building software that scales.
+
+Currently I work on enterprise-grade digital banking platforms, designing and developing secure backend services, modern web applications, and mobile solutions used in production.
+
+I enjoy understanding large codebases, solving difficult engineering problems, and continuously improving software architecture and developer experience.
+
+---
+
+# 🚀 Current Focus
+
+- Enterprise Software Engineering
+- Backend Development
+- TypeScript
+- React
+- Java
+- System Design
+- Clean Architecture
+- Building Raptorics
+
+---
+
+# 💼 Experience
+
+### Senior Software Engineer
+
+- Digital Banking
+- Internet Banking
+- Mobile Banking
+- Enterprise Applications
+- REST APIs
+- Authentication & Authorization
+- Production Support
+- Performance Optimization
+- Secure Software Development
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,linux,aws,docker" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🚀 TypeScript Shell
+
+A Unix Shell built from scratch as part of the CodeCrafters challenge.
+
+---
+
+### 💻 Portfolio Website
+
+Personal portfolio showcasing projects, experience, and technical skills.
+
+---
+
+### 📚 LeetCode Solutions
+
+Collection of algorithmic solutions and data structure implementations.
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ehab-Nada&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehab-Nada&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehab-Nada&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+I'm continuously improving my knowledge in:
+
+- Distributed Systems
+- Software Architecture
+- Cloud Computing
+- High Performance Systems
+- AI-assisted Software Engineering
+
+---
+
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://linkedin.com/in/ehabmnada">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ehab.mohammed.nada@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/Ehab-Nada">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Build software that matters."
+
+⭐ If you like my work, feel free to explore my repositories and leave a star!
+
+</div>
