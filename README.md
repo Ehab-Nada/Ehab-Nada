@@ -6,111 +6,106 @@
 
 Building secure, scalable, and high-performance software for enterprise applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ehab%20Nada-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ehabmnada)
-[![GitHub](https://img.shields.io/badge/GitHub-Ehab--Nada-black?style=for-the-badge&logo=github)](https://github.com/Ehab-Nada)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ehab.mohammed.nada@gmail.com)
+<p>
+<a href="https://linkedin.com/in/ehabmnada">
+<img src="https://img.shields.io/badge/LinkedIn-Ehab%20Nada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ehab.mohammed.nada@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ehab-Nada">
+<img src="https://img.shields.io/badge/GitHub-Ehab--Nada-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a Software Engineer from Egypt passionate about building software that scales.
+I'm a **Software Engineer** from Egypt with a passion for building secure, scalable, and maintainable software.
 
-Currently I work on enterprise-grade digital banking platforms, designing and developing secure backend services, modern web applications, and mobile solutions used in production.
+I specialize in **enterprise digital banking systems**, developing backend services, modern web applications, and mobile solutions used in production.
 
-I enjoy understanding large codebases, solving difficult engineering problems, and continuously improving software architecture and developer experience.
-
----
-
-# 🚀 Current Focus
-
-- Enterprise Software Engineering
-- Backend Development
-- TypeScript
-- Java
-- React
-- Flutter
-- System Design
-- Clean Architecture
+My interests include **software architecture**, **system design**, **clean code**, **performance optimization**, and building software that delivers real business value.
 
 ---
 
-# 💼 Experience
+## 🚀 What I'm Working On
 
-- Digital Banking
-- Internet Banking
-- Mobile Banking
-- Enterprise Applications
-- REST APIs
-- Authentication & Authorization
-- Production Support
-- Performance Optimization
-- Secure Software Development
+- 🏦 Enterprise Digital Banking Platforms
+- ⚙️ Backend Engineering
+- 🌐 Full-Stack Web Development
+- 📱 Cross-Platform Mobile Development
+- 🧠 System Design & Software Architecture
+- 🤖 AI-assisted Software Engineering
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,ts,js,python,html,css" />
 </p>
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,redux,flutter,tailwind" />
 </p>
 
-## Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
 </p>
 
-**Enterprise Technologies**
-
-- Java EE
-- Spring Boot
-- REST APIs
-
-## Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle Database" width="48" height="48"/>
 </p>
 
-**Also experienced with**
-
-- Oracle Database (Oracle SQL)
-
-## Tools & Platforms
+### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,aws,docker" />
+<img src="https://skillicons.dev/icons?i=git,linux,docker,aws" />
 </p>
 
 ---
 
-# 🌱 Currently Learning
+## 💡 Core Expertise
 
-I'm continuously improving my knowledge in:
-
-- Distributed Systems
-- Software Architecture
-- Cloud Computing
-- High-Performance Systems
-- AI-assisted Software Engineering
+- Enterprise Software Development
+- Java EE & Spring Boot
+- RESTful API Design
+- Digital Banking Solutions
+- Authentication & Authorization
+- Performance Optimization
+- Clean Architecture
+- Production Support
 
 ---
 
-# 🤝 Let's Connect
+## 🌱 Currently Learning
+
+- Distributed Systems
+- Cloud Architecture
+- High-Performance Applications
+- Advanced System Design
+- Modern AI Engineering Workflows
+
+---
+
+## 🤝 Let's Connect
 
 <p align="left">
-
 <a href="https://linkedin.com/in/ehabmnada">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
@@ -122,13 +117,12 @@ I'm continuously improving my knowledge in:
 <a href="https://github.com/Ehab-Nada">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 </p>
 
 ---
 
 <div align="center">
 
-### Build software that matters.
+### *"Build software that matters."*
 
 </div>
