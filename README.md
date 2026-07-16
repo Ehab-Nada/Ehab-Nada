@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Ehab Nada
 
-### Senior Software Engineer • Digital Banking • Full-Stack Development
+### Software Engineer • Digital Banking • Full-Stack Development
 
 Building secure, scalable, and high-performance software for enterprise applications.
 
@@ -29,17 +29,15 @@ I enjoy understanding large codebases, solving difficult engineering problems, a
 - Enterprise Software Engineering
 - Backend Development
 - TypeScript
-- React
 - Java
+- React
+- Flutter
 - System Design
 - Clean Architecture
-- Building Raptorics
 
 ---
 
 # 💼 Experience
-
-### Senior Software Engineer
 
 - Digital Banking
 - Internet Banking
@@ -64,14 +62,20 @@ I enjoy understanding large codebases, solving difficult engineering problems, a
 ## Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,flutter,tailwind" />
 </p>
 
 ## Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
 </p>
+
+**Enterprise Technologies**
+
+- Java EE
+- Spring Boot
+- REST APIs
 
 ## Databases
 
@@ -79,48 +83,14 @@ I enjoy understanding large codebases, solving difficult engineering problems, a
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-## Tools
+**Also experienced with**
+
+- Oracle Database (Oracle SQL)
+
+## Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,linux,aws,docker" />
-</p>
-
----
-
-# 📌 Featured Projects
-
-### 🚀 TypeScript Shell
-
-A Unix Shell built from scratch as part of the CodeCrafters challenge.
-
----
-
-### 💻 Portfolio Website
-
-Personal portfolio showcasing projects, experience, and technical skills.
-
----
-
-### 📚 LeetCode Solutions
-
-Collection of algorithmic solutions and data structure implementations.
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ehab-Nada&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ehab-Nada&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ehab-Nada&theme=github-dark-blue&hide_border=true"/>
-
 </p>
 
 ---
@@ -132,7 +102,7 @@ I'm continuously improving my knowledge in:
 - Distributed Systems
 - Software Architecture
 - Cloud Computing
-- High Performance Systems
+- High-Performance Systems
 - AI-assisted Software Engineering
 
 ---
@@ -159,8 +129,6 @@ I'm continuously improving my knowledge in:
 
 <div align="center">
 
-### "Build software that matters."
-
-⭐ If you like my work, feel free to explore my repositories and leave a star!
+### Build software that matters.
 
 </div>
